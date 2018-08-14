@@ -1,11 +1,11 @@
 
-.flex-container {
+.flex-new {
   display: flex;
   flex-wrap: nowrap;
   background-color: white;
 }
 
-.flex-container > div {
+.flex-new > div {
   background-color: green;
   width: 33%;
   height: 600px;
